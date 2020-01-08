@@ -18,7 +18,6 @@ Get your [YouTube Data API v3](https://console.developers.google.com/apis) Key.
 git clone https://github.com/SumeetHaryani/react-youtube-app.git
 cd react-youtube-app
 Create a .env file at the root directory of application and add variable REACT_APP_YOUTUBE_API_KEY='YOUR_API_KEY' to it.
-Say what the step will be
 npm install
 ```
 ## Usage
